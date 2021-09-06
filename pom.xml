@@ -48,7 +48,7 @@
 	 <!--    <repository>
 		  <id>nexus</id>
 		  <name>Releases</name>
-		  <url>http://34.136.241.40:8081/repository/maven-snapshots/</url>
+		  <url>http://34.136.241.40:8081/repository/maven-releases/</url>
 		</repository> -->
 		<snapshotRepository>
 			<id>deployment</id>
