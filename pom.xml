@@ -46,9 +46,9 @@
 	</build>	
 	<distributionManagement>
 	 <!--    <repository>
-		  <id>deployment</id>
+		  <id>nexus</id>
 		  <name>Releases</name>
-		  <url>http://10.128.0.58:8081/repository/maven-releases/</url>
+		  <url>http://10.128.0.37:8081/repository/maven-releases/</url>
 		</repository> -->
 		<snapshotRepository>
 			<id>deployment</id>
